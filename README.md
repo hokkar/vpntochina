@@ -24,10 +24,10 @@ CyberGhost的试用版支持24小时免费试用（Windows和macOS），3天免�
 
 | 套餐         | 价格       | 特点                             | 购买链接                                   |
 |--------------|------------|----------------------------------|--------------------------------------------|
-| 免费试用     | $0/月      | 电脑端24小时免费试用，安卓3天免费试用，iOS版7天免费试用 | [立即试用](https://www.cyberghostvpn.com/zh/vpn-free-trial) |
-| 1个月        | $12.99/月  | 14天退款保证                     | [立即购买](https://www.cyberghostvpn.com/zh/buy/cyberghost-vpn-1) |
-| 6个月        | $6.99/月   | 45天退款保证                     | [立即购买](https://www.cyberghostvpn.com/zh/buy/cyberghost-vpn-2) |
-| 2年 + 4个月  | $2.03/月   | 45天退款保证                     | [立即购买](https://www.cyberghostvpn.com/zh/buy/cyberghost-vpn-1) |
+| 免费试用     | $0/月      | 电脑端24小时免费试用，安卓3天免费试用，iOS版7天免费试用 | [立即试用](https://www.huiguovpn.org/CyberGhost.html) |
+| 1个月        | $12.99/月  | 14天退款保证                     | [立即购买](https://www.huiguovpn.org/CyberGhost.html) |
+| 6个月        | $6.99/月   | 45天退款保证                     | [立即购买](https://www.huiguovpn.org/CyberGhost.html) |
+| 2年 + 4个月  | $2.03/月   | 45天退款保证                     | [立即购买](https://www.huiguovpn.org/CyberGhost.html) |
 
 ---
 
@@ -48,9 +48,9 @@ Private Internet Access，总部位于美国，提供遍布全球91个国家的V
 
 | 套餐         | 价格       | 特点                             | 购买链接                                   |
 |--------------|------------|----------------------------------|--------------------------------------------|
-| 1月          | $11.95/月  | 30天退款保证                     | [立即购买](https://www.privateinternetaccess.com) |
-| 1年          | $3.33/月   | 30天退款保证                     | [立即购买](https://www.privateinternetaccess.com) |
-| 3年+4个月    | $1.98/月   | 30天退款保证                     | [立即购买](https://www.privateinternetaccess.com) |
+| 1月          | $11.95/月  | 30天退款保证                     | [立即购买](https://www.huiguovpn.org/PIA.html) |
+| 1年          | $3.33/月   | 30天退款保证                     | [立即购买](https://www.huiguovpn.org/PIA.html) |
+| 3年+4个月    | $1.98/月   | 30天退款保证                     | [立即购买](https://www.huiguovpn.org/PIA.html) |
 
 ---
 
@@ -69,9 +69,9 @@ PureVPN，总部位于英属维尔京群岛，提供6500个VPN服务器，遍布
 
 | 套餐       | 价格     | 特点               | 购买链接                           |
 |------------|----------|--------------------|------------------------------------|
-| 一月       | $15.95/月| 31天退款保证       | [立即购买](https://www.purevpn.com) |
-| 一年       | $3.99/月 | 31天退款保证       | [立即购买](https://www.purevpn.com) |
-| 两年       | $2.15/月 | 31天退款保证       | [立即购买](https://www.purevpn.com) |
+| 一月       | $15.95/月| 31天退款保证       | [立即购买](https://www.huiguovpn.org/purevpn.html) |
+| 一年       | $3.99/月 | 31天退款保证       | [立即购买](https://www.huiguovpn.org/purevpn.html) |
+| 两年       | $2.15/月 | 31天退款保证       | [立即购买](https://www.huiguovpn.org/purevpn.html) |
 
 ---
 
@@ -91,9 +91,9 @@ Hotspot Shield，由Pango公司开发，全球拥有1800多台服务器，涵盖
 
 | 套餐     | 价格     | 特点                   | 购买链接                           |
 |----------|----------|------------------------|------------------------------------|
-| 免费版   | $0       | 支持一台设备           | [立即下载](https://www.hotspotshield.com) |
-| 一月     | $9.99/月 | 支持10台设备，45天无条件退款 | [立即购买](https://www.hotspotshield.com) |
-| 一年     | $6.66/月 | 支持10台设备，45天无条件退款 | [立即购买](https://www.hotspotshield.com) |
+| 免费版   | $0       | 支持一台设备           | [立即下载]https://www.huiguovpn.org/Hotspot-Shield.html) |
+| 一月     | $9.99/月 | 支持10台设备，45天无条件退款 | [立即购买](https://www.huiguovpn.org/Hotspot-Shield.html) |
+| 一年     | $6.66/月 | 支持10台设备，45天无条件退款 | [立即购买](https://www.huiguovpn.org/Hotspot-Shield.html) |
 
 ---
 
