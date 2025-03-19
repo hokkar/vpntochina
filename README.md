@@ -91,7 +91,7 @@ Hotspot Shield，由Pango公司开发，全球拥有1800多台服务器，涵盖
 
 | 套餐     | 价格     | 特点                   | 购买链接                           |
 |----------|----------|------------------------|------------------------------------|
-| 免费版   | $0       | 支持一台设备           | [立即下载]https://www.huiguovpn.org/Hotspot-Shield.html) |
+| 免费版   | $0       | 支持一台设备           | [立即下载](https://www.huiguovpn.org/Hotspot-Shield.html) |
 | 一月     | $9.99/月 | 支持10台设备，45天无条件退款 | [立即购买](https://www.huiguovpn.org/Hotspot-Shield.html) |
 | 一年     | $6.66/月 | 支持10台设备，45天无条件退款 | [立即购买](https://www.huiguovpn.org/Hotspot-Shield.html) |
 
